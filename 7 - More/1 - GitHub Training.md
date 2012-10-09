@@ -1,0 +1,1 @@
+[GitHub Training](http://training.github.com/resources/)
